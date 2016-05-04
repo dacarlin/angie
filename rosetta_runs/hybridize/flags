@@ -1,0 +1,12 @@
+-in:file:fasta ../partial_thread/target.pdb
+-parser:protocol protocol.xml
+
+#-out:file:silent silent.out
+#-frag3 %s' %name[0:4]+'_.200.3mers' )
+#-frag9 %s' %name[0:4]+'_.200.9mers')
+
+#write_stage1_wts('stage1.wts')
+#write_stage2_wts('stage2.wts')
+#write_stage3_wts('stage3.wts')
+
+#write_xml(mytemplates,mytemplatedir)

@@ -1,0 +1,5 @@
+-in:file:fasta target.fasta  
+-in:file:alignment
+-in:file:template_pdb
+-ignore_unrecognized_res 1
+-overwrite 1
