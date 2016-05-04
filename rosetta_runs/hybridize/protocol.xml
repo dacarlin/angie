@@ -12,7 +12,6 @@
 </SCOREFXNS>
 <MOVERS>
     <Hybridize name=hybridize stage1_scorefxn=stage1 stage2_scorefxn=stage2 fa_scorefxn=fullatom batch=1 stage1_increase_cycles=1.0 stage2_increase_cycles=1.0>
-        <Template pdb="" cst_file="AUTO" weight=1.000 />
         <Template pdb="../partial_thread/1ox7A_renum.pdb" cst_file="AUTO" weight=1.000 />
         <Template pdb="../partial_thread/1ysdA_renum.pdb" cst_file="AUTO" weight=1.000 />
         <Template pdb="../partial_thread/2o3kA_renum.pdb" cst_file="AUTO" weight=1.000 />
